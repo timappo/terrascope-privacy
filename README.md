@@ -1,6 +1,6 @@
-# TerraScope — Support & Privacy
+# Terascope — Support & Privacy
 
-**TerraScope** is an offline Terraria world-file (`.wld`) viewer for iOS. Open a world
+**Terascope** is an offline Terraria world-file (`.wld`) viewer for iOS. Open a world
 file and explore a full-resolution minimap, search chests by item, jump to ore and gem
 deposits, track defeated bosses, and inspect any tile — entirely on your device.
 
@@ -13,7 +13,7 @@ deposits, track defeated bosses, and inspect any tile — entirely on your devic
 
 Need help, found a bug, or have a feature request?
 
-📧 **Email:** [timappo678@gmail.com](mailto:timappo678@gmail.com?subject=TerraScope%20Support)
+📧 **Email:** [timappo678@gmail.com](mailto:timappo678@gmail.com?subject=Terascope%20Support)
 
 Please include:
 
@@ -25,8 +25,8 @@ I read every message and try to reply within a few days.
 
 ### Frequently asked questions
 
-**Where does TerraScope get my world files?**
-You pick a `.wld` file yourself using the iOS file picker. TerraScope only reads files
+**Where does Terascope get my world files?**
+You pick a `.wld` file yourself using the iOS file picker. Terascope only reads files
 you explicitly choose.
 
 **Does it upload my worlds anywhere?**
@@ -45,27 +45,27 @@ the app if it has been in the background for a long time.
 
 _Last updated: June 2026_
 
-TerraScope is designed to be completely private and works fully offline.
+Terascope is designed to be completely private and works fully offline.
 
-- **No data collection.** TerraScope does not collect, store, or transmit any personal
+- **No data collection.** Terascope does not collect, store, or transmit any personal
   information.
 - **No accounts.** There is no sign-up or login.
-- **No analytics or tracking.** TerraScope contains no analytics SDKs, advertising, or
+- **No analytics or tracking.** Terascope contains no analytics SDKs, advertising, or
   third-party trackers.
 - **Your files stay on your device.** World files you open are read locally and are
-  never uploaded to any server. TerraScope has no backend.
+  never uploaded to any server. Terascope has no backend.
 - **No internet required.** The app functions without a network connection.
 
-Because TerraScope collects no data, there is no personal data to access, modify, or
+Because Terascope collects no data, there is no personal data to access, modify, or
 delete, and nothing is shared with third parties.
 
 If this policy changes, the updated version will be posted on this page.
 
-**Contact:** [timappo678@gmail.com](mailto:timappo678@gmail.com?subject=TerraScope%20Privacy)
+**Contact:** [timappo678@gmail.com](mailto:timappo678@gmail.com?subject=Terascope%20Privacy)
 
 ---
 
 ## Attribution
 
-Terraria is created by Re-Logic. TerraScope is an independent, fan-made tool and is not
+Terraria is created by Re-Logic. Terascope is an independent, fan-made tool and is not
 affiliated with, endorsed by, or sponsored by Re-Logic.
